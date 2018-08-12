@@ -1,3 +1,3 @@
 # NumberGuessingPython
-Coding Practice #3 
+Coding Practice #3  
 using python
